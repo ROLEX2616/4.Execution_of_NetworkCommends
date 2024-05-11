@@ -1,9 +1,10 @@
 # EXP: 4.Execution_of_NetworkCommands
-### Register no: 212222110032
-### Name: Prabha C
+
 ## AIM :
+
 Use of Network commands in Real Time environment
 ## Software : 
+
 Command Prompt And Network Protocol Analyzer
 ## Procedure: 
 To do this EXPERIMENT- follows these steps:
